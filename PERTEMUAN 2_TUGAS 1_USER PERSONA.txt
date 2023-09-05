@@ -1,0 +1,36 @@
+[USER PERSONA]
+
+Pustakawan
+- 20 s/d 30 th
+- ga jago jago amat teknologi
+- bantuan inventaris?
+- terlalu banyak kategori
+- catatan peminjaman sudah melalui website
+- hanya menggunakan desktop, harapan bisa di mobile juga
+- penanganan pelanggaran
+- pencegahan kerusakan
+- kerusakan dicatat di web
+- mengelola arsip dan data pengunjung
+- operasional jam 8 - 21
+- sulit mendata pelanggaran
+- selama ini hanya pakai spreadsheet
+- pendataan pengunjung manual (no telf, nama, email)
+- denda bisa cashless
+- pengunjung suka ghosting
+
+
+
+Pengunjung
+- kesulitan melihat list kategori
+- lupa mengembalikan buku
+- denda pelanggaran
+- pengunjung suka baca offline soalnya ada ac
+- 17 s/d 24 th
+- stok terbatas karena kondisi buku rusak
+- banyak minat tapi cuma bisa minjem 1 buku
+- suka lupa waktu
+- kesulitan mencari informasi mengenai membership
+
+
+
+
